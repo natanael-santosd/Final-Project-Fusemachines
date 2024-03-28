@@ -1,1 +1,4 @@
 git clone https://github.com/natanael-santosd/Final-Project-Fusemachines
+git add .
+git commit -m "Add Colab notebook"
+git push origin main
